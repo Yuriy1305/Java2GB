@@ -6,7 +6,7 @@ package HW3;
 public class Apple extends Fruit {
 // определяем вес - одно свойство константа:
       final float appleWeight = 1.0F;
-      Apple(float appleWeight) {
+      Apple() {
         super(appleWeight);
       }
 }
